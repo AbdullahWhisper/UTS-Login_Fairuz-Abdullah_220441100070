@@ -1,0 +1,18 @@
+.navbar-brand span {
+    font-size: 25px;
+    margin-left: 35px;
+}
+
+.navbar-brand span1 {
+    font-size: 35px;
+}
+
+.offcanvas-body button{
+  position: absolute;
+  bottom: 15px;
+  width: 98%;
+  right: 10px;
+  font-weight: bold;
+  left: 5px;
+  text-align: center;
+}
